@@ -1,0 +1,21 @@
+{
+  "name": "optimal-beam",
+  "version": "1.0.0",
+  "description": "Analyze beams, inspect reactions and deflections, search steel sections, and compare candidates with Optimal Beam.",
+  "author": {
+    "name": "Optimal Beam Inc.",
+    "email": "contact@optimalbeam.com"
+  },
+  "homepage": "https://optimalbeam.com/plugin-support.html",
+  "repository": "https://github.com/tamerhijjawi/optimal-beam-cursor",
+  "license": "MIT",
+  "keywords": [
+    "structural-engineering",
+    "beam-analysis",
+    "steel-sections",
+    "engineering",
+    "mcp"
+  ],
+  "logo": "assets/logo.svg",
+  "mcpServers": "mcp.json"
+}
